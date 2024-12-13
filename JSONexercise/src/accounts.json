@@ -1,0 +1,16 @@
+[
+  {
+    "Account Balance" : "$500",
+    "Account Name" : "Jane",
+    "Account Number": 1094
+  },{
+  "Account Balance" : "$1059",
+  "Account Name" : "Marcus",
+  "Account Number": 3000
+
+},{
+  "Account Balance" : "$740",
+  "Account Name" : "August",
+  "Account Number": 1309
+}
+]
